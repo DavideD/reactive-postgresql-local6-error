@@ -1,3 +1,6 @@
+Working example for https://github.com/quarkusio/quarkus/issues/43078
+
+
 # reactive-postgre-local-error
 
 This project uses Quarkus trying a larger native query against the postgresql database.
